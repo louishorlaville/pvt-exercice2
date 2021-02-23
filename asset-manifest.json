@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/louishorlaville/pvt-exercice2/static/css/main.a0e2d074.chunk.css",
+    "main.js": "/louishorlaville/pvt-exercice2/static/js/main.0f8cd250.chunk.js",
+    "main.js.map": "/louishorlaville/pvt-exercice2/static/js/main.0f8cd250.chunk.js.map",
+    "runtime-main.js": "/louishorlaville/pvt-exercice2/static/js/runtime-main.063d523d.js",
+    "runtime-main.js.map": "/louishorlaville/pvt-exercice2/static/js/runtime-main.063d523d.js.map",
+    "static/js/2.1384af4e.chunk.js": "/louishorlaville/pvt-exercice2/static/js/2.1384af4e.chunk.js",
+    "static/js/2.1384af4e.chunk.js.map": "/louishorlaville/pvt-exercice2/static/js/2.1384af4e.chunk.js.map",
+    "index.html": "/louishorlaville/pvt-exercice2/index.html",
+    "static/css/main.a0e2d074.chunk.css.map": "/louishorlaville/pvt-exercice2/static/css/main.a0e2d074.chunk.css.map",
+    "static/js/2.1384af4e.chunk.js.LICENSE.txt": "/louishorlaville/pvt-exercice2/static/js/2.1384af4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.063d523d.js",
+    "static/js/2.1384af4e.chunk.js",
+    "static/css/main.a0e2d074.chunk.css",
+    "static/js/main.0f8cd250.chunk.js"
+  ]
+}
