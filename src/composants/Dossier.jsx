@@ -11,7 +11,7 @@ export default function Dossier({id, titre, couleur, dateModif}) {
       </div>
       <div className="info" style={{backgroundColor:couleur}}>
         <h2>{titre}</h2>
-        <p>{dateModif}</p>
+        <p>Modifié: {dateModif}</p>
       </div>
       <span className="plus"><MoreVertIcon fontSize="default"/></span>
     </article>

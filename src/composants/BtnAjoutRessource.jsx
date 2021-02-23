@@ -1,7 +1,11 @@
+import Fab from '@material-ui/core/Fab';
+import AddIcon from '@material-ui/icons/Add';
+import './BtnAjoutRessource.scss';
+
 export default function BtnAjoutRessource() {
   return (
-    <button className="BtnAjoutRessource">
-      Ajouter
-    </button>
+    <Fab className="BtnAjoutRessource" color="primary" aria-label="add">
+        <AddIcon />
+    </Fab>
   );
 }
