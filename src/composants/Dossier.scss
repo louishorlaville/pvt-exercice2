@@ -1,0 +1,45 @@
+.Dossier{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+    .couverture{
+        position: relative;
+        height: 200px;
+
+        .deplacer{
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            top: 10px;
+            left: 10px;
+            width: 40px;
+            height: 40px;
+            opacity: .5;
+            background-color: black;
+            clip-path: circle(50%) ;
+            
+            :first-child{
+                color: white;
+            }
+        }
+
+        img{
+            height: 100%;
+        }
+    }
+
+    .info{
+        color: white;
+        padding-left: 15px;
+        padding-bottom: 40px;
+    }
+
+    .plus{
+        position: absolute;
+        bottom: 15px;
+        right: 10px;
+        color: white;
+    }
+}
